@@ -1,4 +1,4 @@
-# # This code enables researchers and others to extract news articles from (initially) the search term 'Gaza' on the search page of BBC World News.
+# This code enables researchers and others to extract news articles from (initially) the search term 'Gaza' on the search page of BBC World News.
 # Note that this web page has an inherent bias towards articles that include 'Gaza'.
 # A more comprehensive understanding of BBC's reporting about the Israel-Palestine conflict requires the inclusion of additional web pages (which are included in this repository).
 
