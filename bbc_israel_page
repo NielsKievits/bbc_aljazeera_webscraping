@@ -1,4 +1,4 @@
-# This code enables researchers and others to extract news articles from (initially) the Israel-page of BBC World News, including news articles from Febuary 3 2018 until current times.
+# This code enables researchers and others to extract news articles from (initially) the Israel-page of BBC World News, including news articles from Febuary 3 2018 until the present.
 # Note that this web page has an inherent bias towards Israel.
 # A more comprehensive understanding of BBC's reporting about the Israel-Palestine conflict requires the inclusion of additional web pages (which are included in this repository).
 
