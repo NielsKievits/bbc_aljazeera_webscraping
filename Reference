@@ -5,7 +5,7 @@ authors:
   - family-names: Kievits
     given-names: Niels Wouter
     orcid: https://orcid.org/1234-5678-9101-1121
-title: "My Research Software"
+title: "Web-scraping news articles from BBC World News and Al Jazeera English "
 version: 1.0.0
 identifiers:
   - type: doi
